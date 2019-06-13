@@ -8,6 +8,11 @@ body {
     border: solid black 2px;
 }
 
+#tribute-info{
+  text-align: justify;
+}
+
 img {
     width: 100%;
+    max-width: none;
 }
