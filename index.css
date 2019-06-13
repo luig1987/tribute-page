@@ -6,6 +6,7 @@ body {
 
 #img-div {
   border: solid black 2px;
+  margin: 0;
 }
 
 #tribute-info{
